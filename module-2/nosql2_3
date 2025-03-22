@@ -1,0 +1,27 @@
+{
+  "UserID": "001",
+  "Name": "Brennan Cheatwood",
+  "Birthdate": "2003-04-04",
+  "Dependents": [
+    {
+      "DependentID": "1",
+      "DependentName": "Hope Cheatwood",
+      "Relationship": "Spouse"
+    },
+    {
+      "DependentID": "2",
+      "DependentName": "Baby Cheatwood",
+      "Relationship": "Child"
+    }
+  ],
+  "Roles": [
+    {
+      "RoleID": "1",
+      "RoleName": "Tech Consultant"
+    },
+    {
+      "RoleID": "2",
+      "RoleName": "Manager"
+    }
+  ]
+}
